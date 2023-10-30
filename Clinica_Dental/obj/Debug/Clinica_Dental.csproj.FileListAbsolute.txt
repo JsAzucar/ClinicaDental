@@ -1,0 +1,405 @@
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica\Clinica_Dental_nuevo\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Pictures\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Cmbdoctor.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Cmbdoctor.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\ISMAEL MARIN\Videos\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Documents\Clinica_Dental\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\RicardoJose\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\igles\OneDrive\Escritorio\mate3\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 3\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\RicardoJose\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\RicardoJose\Desktop\PROYECTO ADS\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\3D Objects\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\igles\OneDrive\Escritorio\pensa\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Music\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ERNES\Desktop\Ciclo3\PED\ADS\Proyecto\New folder (4)\Clinica_Dental v0.8\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe.config
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Clinica_Dental.pdb
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.dll
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.dll
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\bin\Debug\RestSharp.xml
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csprojAssemblyReference.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminCitas.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminFicha.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Administrar_doctores.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.AdminUsuarios.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Central.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateCita.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.CreateFicha.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Login.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Prinicipal.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.GenerateResource.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CoreCompileInputs.cache
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.csproj.CopyComplete
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.exe
+C:\Users\ISMAEL MARIN\Desktop\Clinica_Dental 4\Clinica_Dental\obj\Debug\Clinica_Dental.pdb

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2FE59DE-2ECC-4615-BC14-8B98CA7807E6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Clinica_Dental</RootNamespace>
+    <AssemblyName>Clinica_Dental</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FireSharp, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FireSharp.1.1.0\lib\net45\FireSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="FireSharp.Serialization.JsonNet, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FireSharp.Serialization.JsonNet.1.1.0\lib\net45\FireSharp.Serialization.JsonNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=104.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.104.4.0\lib\net4\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminCitas.Designer.cs">
+      <DependentUpon>AdminCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminFicha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminFicha.Designer.cs">
+      <DependentUpon>AdminFicha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrar_doctores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrar_doctores.Designer.cs">
+      <DependentUpon>Administrar_doctores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUsuarios.Designer.cs">
+      <DependentUpon>AdminUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_usuarios.cs" />
+    <Compile Include="Central.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Central.Designer.cs">
+      <DependentUpon>Central.cs</DependentUpon>
+    </Compile>
+    <Compile Include="citasE.cs" />
+    <Compile Include="Contador.cs" />
+    <Compile Include="Contador2.cs" />
+    <Compile Include="CreateCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateCita.Designer.cs">
+      <DependentUpon>CreateCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateFicha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateFicha.Designer.cs">
+      <DependentUpon>CreateFicha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor.cs" />
+    <Compile Include="fichasf.cs" />
+    <Compile Include="Horario.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pago.cs" />
+    <Compile Include="Prinicipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prinicipal.Designer.cs">
+      <DependentUpon>Prinicipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminCitas.resx">
+      <DependentUpon>AdminCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminFicha.resx">
+      <DependentUpon>AdminFicha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrar_doctores.resx">
+      <DependentUpon>Administrar_doctores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUsuarios.resx">
+      <DependentUpon>AdminUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Central.resx">
+      <DependentUpon>Central.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateCita.resx">
+      <DependentUpon>CreateCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateFicha.resx">
+      <DependentUpon>CreateFicha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prinicipal.resx">
+      <DependentUpon>Prinicipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dentist11.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perfil.2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ML.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen_contrato.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Radiografia_image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Perfil_ambos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxim_reduc.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar-reducir.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximi-reduci.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximo-minimo.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMAGOTIPO MELARA MARTINEZ-03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMAGOTIPO MELARA MARTINEZ VERDE BG WHITE-03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMAGOTIPO-MELARA-MARTINEZ-VERDE-sin-negro-de-fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMAGOTIPO-MELARA-MARTINEZ-AZUL--WHITE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\degradados-wallpapers-6.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
